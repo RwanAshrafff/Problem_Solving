@@ -48,7 +48,7 @@ If you find a bug, a better solution, or want to suggest improvements:
 
 ## 📌 Author
 
-**Rawan Ashraf**  
+**Rwan Ashraf**  
 Competitive Programmer | Software Engineering Student  
 
 Happy Coding! 💻🔥
